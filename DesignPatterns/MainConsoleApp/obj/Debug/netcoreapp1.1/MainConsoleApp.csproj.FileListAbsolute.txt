@@ -1,0 +1,9 @@
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\bin\Debug\netcoreapp1.1\MainConsoleApp.deps.json
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\bin\Debug\netcoreapp1.1\MainConsoleApp.runtimeconfig.json
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\bin\Debug\netcoreapp1.1\MainConsoleApp.runtimeconfig.dev.json
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\bin\Debug\netcoreapp1.1\MainConsoleApp.dll
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\bin\Debug\netcoreapp1.1\MainConsoleApp.pdb
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\obj\Debug\netcoreapp1.1\MainConsoleApp.csprojResolveAssemblyReference.cache
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\obj\Debug\netcoreapp1.1\MainConsoleApp.AssemblyInfo.cs
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\obj\Debug\netcoreapp1.1\MainConsoleApp.dll
+C:\_GIT\DesignPatterns\DesignPatterns\MainConsoleApp\obj\Debug\netcoreapp1.1\MainConsoleApp.pdb
